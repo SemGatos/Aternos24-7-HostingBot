@@ -8,7 +8,7 @@
   "server": {
     "ip": "server_pra_amigos.aternos.me",
     "port": 30618,
-    "version": "26.1.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "eu amo chocolate, meio contraditório por ser um bot",
+        
         "eu sou um bot, podem me ignorar",
         "eu NÃO sou um chat gpt, eu só tenho 3 linhas de fala",
         "eu poderia fazer mais algo do que só falar e ficar no server, mas o adm é um inútil",
