@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "server_pra_amigos.aternos.me",
+    "ip": "bluefish.aternos.host:30618",
     "port": 30618,
     "version": "",
     "try-creative": false
