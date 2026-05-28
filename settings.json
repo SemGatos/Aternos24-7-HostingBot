@@ -36,13 +36,14 @@
         "eu NÃO sou um chat gpt, eu só tenho 3 linhas de fala",
         "eu poderia fazer mais algo do que só falar e ficar no server, mas o adm é um inútil",
         "alguém tem diamante? queria fazer uma armadura. brincadeira, sou um bot",
-        "ok google, como fazer mais alguma coisa do que só ficar no server? 100% atualizado, sem virus, atualizado 2021"
+        "ok google, como fazer mais alguma coisa do que só ficar no server? 100% atualizado, sem virus, atualizado 2021",
+        "O aternos presisa de 1 pessoa online no server, e eu, pra não ser kickado, presiso falar e andar, por isso estou aqui"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 1,
+    "max-reconnect-delay": 1
   },
   "movement": {
     "enabled": true,
