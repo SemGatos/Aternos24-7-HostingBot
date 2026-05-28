@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "eu amo chocolate",
-        "eu sou um bot",
-        "você gosta de chocolate?"
+        "eu amo chocolate, meio contraditório por ser um bot",
+        "eu sou um bot, podem me ignorar",
+        "eu NÃO sou um chat gpt, eu só tenho 3 linhas de fala"
       ]
     },
     "chat-log": true,
@@ -53,7 +53,7 @@
       "interval": 5000
     },
     "random-jump": {
-      "enabled": false,
+      "enabled": true,
       "interval": 10000
     }
   },
