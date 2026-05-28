@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Meu_Primeiro_Server.aternos.me:30618",
+    "ip": "eelpout.aternos.host",
     "port": 30618,
     "version": "",
     "try-creative": false
