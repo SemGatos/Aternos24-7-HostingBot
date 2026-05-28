@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CAT_Server-oficial.aternos.me",
+    "ip": "CAT_Server-oficial99.aternos.me",
     "port": 30618,
     "version": "",
     "try-creative": false
@@ -35,7 +35,9 @@
         "eu sou um bot, podem me ignorar",
         "eu NÃO sou um chat gpt, eu só tenho 3 linhas de fala",
         "eu poderia fazer mais algo do que só falar e ficar no server, mas o adm é um inútil",
-        "eu gosto de chocolate, meio contraditório por eu ser um bot"
+        "eu gosto de chocolate, meio contraditório por eu ser um bot",
+        "eu deveria fazer mais algo do que só falar? talvez...",
+        "alguém tem diamante? ah é, sou um bot, isso é inútil"
       ]
     },
     "chat-log": true,
