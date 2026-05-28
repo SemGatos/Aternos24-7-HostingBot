@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "eelpout.aternos.host",
+    "ip": "193.56.156.224",
     "port": 30618,
     "version": "",
     "try-creative": false
